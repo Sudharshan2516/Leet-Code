@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-     ArrayList<Integer> ans = new ArrayList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
         // Approach first i is constant and j increases
         //j is constant i keeps on increases
         //i is constant and j keeps on decrease 
