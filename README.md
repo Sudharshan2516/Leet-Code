@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1075-project-employees-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1075-project-employees-i/) | Easy |
 | [1251-average-selling-price](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1251-average-selling-price/) | Easy |
 | [1683-invalid-tweets](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1683-invalid-tweets/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
