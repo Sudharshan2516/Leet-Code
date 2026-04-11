@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
