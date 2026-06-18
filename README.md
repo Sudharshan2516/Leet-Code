@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0189-rotate-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
