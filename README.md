@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [1260-shift-2d-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1306-jump-game-iii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1340-jump-game-v/) | Hard |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1260-shift-2d-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1260-shift-2d-grid/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
