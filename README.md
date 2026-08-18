@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
