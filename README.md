@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3161-block-placement-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -534,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -541,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Monotonic Stack
