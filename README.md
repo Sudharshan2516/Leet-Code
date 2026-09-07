@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0115-distinct-subsequences/) | Hard |
 | [0788-rotated-digits](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
