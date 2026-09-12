@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3660-jump-game-ix/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3161-block-placement-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -403,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
