@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [2029-stone-game-ix](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 | [1861-rotating-the-box](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -680,4 +683,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Flow Network
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/SUDHARSHAN-KUMAR-16/Leet-Code-Soluutions-in-Java/tree/main/1605-find-valid-matrix-given-row-and-column-sums/) | Medium |
 <!---LeetCode Topics End-->
